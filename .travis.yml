@@ -11,6 +11,7 @@ cache:
     - node_modules
     #脚本
 script:
+- npm i
 - npm run start
 
 # End: Build LifeCycle
