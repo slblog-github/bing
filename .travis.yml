@@ -9,5 +9,8 @@ node_js:
 cache:
   directories:
     - node_modules
+    #脚本
+script:
+- npm run start
 
 # End: Build LifeCycle
